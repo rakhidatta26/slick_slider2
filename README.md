@@ -1,1 +1,1 @@
-# slick_slider2
+https://rakhidatta26.github.io/slick_slider2/
